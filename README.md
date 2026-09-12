@@ -54,28 +54,28 @@ pip install -r requirements.txt
   <br>
   <table>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide1.png" alt="Slide 1" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide2.png" alt="Slide 2" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide1.png" alt="Slide 1" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide2.png" alt="Slide 2" width="100%"></td>
     </tr>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide3.png" alt="Slide 3" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide4.png" alt="Slide 4" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide3.png" alt="Slide 3" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide4.png" alt="Slide 4" width="100%"></td>
     </tr>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide5.png" alt="Slide 5" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide6.png" alt="Slide 6" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide5.png" alt="Slide 5" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide6.png" alt="Slide 6" width="100%"></td>
     </tr>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide7.png" alt="Slide 7" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide8.png" alt="Slide 8" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide7.png" alt="Slide 7" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide8.png" alt="Slide 8" width="100%"></td>
     </tr>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide9.png" alt="Slide 9" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide10.png" alt="Slide 10" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide9.png" alt="Slide 9" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide10.png" alt="Slide 10" width="100%"></td>
     </tr>
     <tr>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
-      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
     </tr>
   </table>
 </details>
