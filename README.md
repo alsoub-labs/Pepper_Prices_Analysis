@@ -46,14 +46,43 @@ pip install -r requirements.txt
 
 ---
 
-## *[A Data-Driven Framework for Agricultural Market Strategy](https://share.gemini.google/Im71RNQkdJc1)*
+## *[A Data-Driven Framework for Agricultural Market Strategy](https://docs.google.com/presentation/d/e/2PACX-1vTvu-z-1TOz-KBFDftUUdsPI78qJQa-rEYpCGlNi9JV2eldnVRFithmwxUvxvpgDKzS9zO-MFHExRDO/pubembed?start=false&loop=false&delayms=3000)*
 
 
+<details>
+  <summary>🔍 Click here to preview Framework </summary>
+  <br>
+  <table>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide1.png" alt="Slide 1" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide2.png" alt="Slide 2" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide3.png" alt="Slide 3" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide4.png" alt="Slide 4" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide5.png" alt="Slide 5" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide6.png" alt="Slide 6" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide7.png" alt="Slide 7" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide8.png" alt="Slide 8" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide9.png" alt="Slide 9" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide10.png" alt="Slide 10" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
+      <td><img src="./Bell_Pepper_Price_Analysis_Slides/slide11.png" alt="Slide 11" width="100%"></td>
+    </tr>
+  </table>
+</details>
 
+---------------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvu-z-1TOz-KBFDftUUdsPI78qJQa-rEYpCGlNi9JV2eldnVRFithmwxUvxvpgDKzS9zO-MFHExRDO/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
+## *[📥 Download PDF](Bell_Pepper_Price_Analysis.pdf)*
 
 
 ## *Project Structure :*
@@ -236,16 +265,6 @@ pip install -r requirements.txt
 #### *08_ML_Model_Training*
 * *get he best_model*
 * *apply shap_model*
-
-
-
-<details>
-  <summary>🔍 Click here to preview the PDF document</summary>
-  <br>
-  <img src="./Images/Capture.PNG" alt="PDF Preview" width="100%">
-</details>
-
-
 
 
 
