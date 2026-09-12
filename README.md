@@ -1,3 +1,7 @@
+
+
+
+
 # Pepper_Prices_Analysis 
 
 
@@ -43,6 +47,9 @@ conda activate EnvPepperPricesAnalysis
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+https://github.com/user-attachments/assets/279084cb-cba8-469a-af56-6f4ac5dca305
 
 ---
 
