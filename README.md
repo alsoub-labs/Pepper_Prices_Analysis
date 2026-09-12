@@ -46,6 +46,10 @@ pip install -r requirements.txt
 
 ---
 
+<video src="video.mp4" width="100%" controls></video>
+
+---
+
 ## *[A Data-Driven Framework for Agricultural Market Strategy](https://docs.google.com/presentation/d/e/2PACX-1vTvu-z-1TOz-KBFDftUUdsPI78qJQa-rEYpCGlNi9JV2eldnVRFithmwxUvxvpgDKzS9zO-MFHExRDO/pubembed?start=false&loop=false&delayms=3000)*
 
 
