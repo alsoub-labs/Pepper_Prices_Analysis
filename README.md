@@ -8,6 +8,7 @@
 
 ## *Author  [Omar Soub](https://github.com/omars1234)*
 
+
 ## *Overview*
 
 *On this Project ,we will intensive data analysis techneques for Bell Pepper data set Using Python Programming*
@@ -44,6 +45,16 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## *[A Data-Driven Framework for Agricultural Market Strategy](https://share.gemini.google/Im71RNQkdJc1)*
+
+
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvu-z-1TOz-KBFDftUUdsPI78qJQa-rEYpCGlNi9JV2eldnVRFithmwxUvxvpgDKzS9zO-MFHExRDO/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
 
 ## *Project Structure :*
 
@@ -228,6 +239,11 @@ pip install -r requirements.txt
 
 
 
+<details>
+  <summary>🔍 Click here to preview the PDF document</summary>
+  <br>
+  <img src="./Images/Capture.PNG" alt="PDF Preview" width="100%">
+</details>
 
 
 
