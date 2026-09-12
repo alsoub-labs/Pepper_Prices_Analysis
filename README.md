@@ -54,8 +54,8 @@ pip install -r requirements.txt
   <br>
   <table>
     <tr>
-      <td><img src=Bell_Pepper_Price_Analysis_Slides/Slide1.PNG alt="Slide 1" width="100%"></td>
-      <td><img src="Bell_Pepper_Price_Analysis_Slides/Slide2.PNG" alt="Slide 2" width="100%"></td>
+      <td><img src=Bell_Pepper_Price_Analysis_Slides/Slide1.PNG alt="Slide1" width="100%"></td>
+      <td><img src="Bell_Pepper_Price_Analysis_Slides/Slide2.PNG" alt="Slide2" width="100%"></td>
     </tr>
     <tr>
       <td><img src="Bell_Pepper_Price_Analysis_Slides/Slide3.PNG" alt="Slide 3" width="100%"></td>
