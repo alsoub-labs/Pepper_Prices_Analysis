@@ -49,10 +49,6 @@ pip install -r requirements.txt
 ```
 ---
 
-https://github.com/user-attachments/assets/279084cb-cba8-469a-af56-6f4ac5dca305
-
----
-
 <video src="video.mp4" width="100%" controls></video>
 
 ---
