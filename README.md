@@ -1,3 +1,7 @@
+
+
+
+
 # Pepper_Prices_Analysis 
 
 
@@ -43,7 +47,6 @@ conda activate EnvPepperPricesAnalysis
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 <video src="video.mp4" width="100%" controls></video>
